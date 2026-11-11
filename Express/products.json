@@ -1,0 +1,12 @@
+{
+  "products": [
+    { "id": "P1001", "sku": "WH-BLK-001", "name": "Wireless Bluetooth Headphones", "category": "Electronics", "brand": "SoundWave", "price": 79.99, "currency": "USD", "stock": 142, "rating": 4.5, "reviews_count": 1287, "in_stock": true, "tags": ["audio", "wireless", "noise-cancelling"], "created_at": "2026-01-15" },
+    { "id": "P1002", "sku": "KB-MECH-002", "name": "Mechanical Gaming Keyboard", "category": "Electronics", "brand": "KeyForge", "price": 109.5, "currency": "USD", "stock": 58, "rating": 4.7, "reviews_count": 932, "in_stock": true, "tags": ["keyboard", "gaming", "rgb"], "created_at": "2026-02-03" },
+    { "id": "P1003", "sku": "BT-STEEL-003", "name": "Insulated Stainless Steel Bottle (750ml)", "category": "Home & Kitchen", "brand": "HydroPeak", "price": 24.99, "currency": "USD", "stock": 310, "rating": 4.6, "reviews_count": 2145, "in_stock": true, "tags": ["bottle", "insulated", "outdoor"], "created_at": "2026-02-20" },
+    { "id": "P1004", "sku": "SH-RUN-004", "name": "Lightweight Running Shoes", "category": "Sportswear", "brand": "StrideX", "price": 89, "currency": "USD", "stock": 0, "rating": 4.3, "reviews_count": 674, "in_stock": false, "tags": ["shoes", "running", "breathable"], "created_at": "2026-03-08" },
+    { "id": "P1005", "sku": "LP-DESK-005", "name": "LED Desk Lamp with USB Charging", "category": "Home & Office", "brand": "BrightNest", "price": 34.95, "currency": "USD", "stock": 205, "rating": 4.4, "reviews_count": 518, "in_stock": true, "tags": ["lighting", "desk", "usb"], "created_at": "2026-03-27" },
+    { "id": "P1006", "sku": "BP-TRVL-006", "name": "Water-Resistant Travel Backpack (30L)", "category": "Bags & Luggage", "brand": "TrailMate", "price": 59.9, "currency": "USD", "stock": 87, "rating": 4.8, "reviews_count": 1503, "in_stock": true, "tags": ["backpack", "travel", "water-resistant"], "created_at": "2026-04-11" },
+    { "id": "P1007", "sku": "CF-BREW-007", "name": "Programmable Coffee Maker", "category": "Home & Kitchen", "brand": "BrewMaster", "price": 64, "currency": "USD", "stock": 41, "rating": 4.2, "reviews_count": 389, "in_stock": true, "tags": ["coffee", "kitchen", "appliance"], "created_at": "2026-05-02" },
+    { "id": "P1008", "sku": "YM-EXR-008", "name": "Non-Slip Yoga Mat (6mm)", "category": "Sportswear", "brand": "ZenFlex", "price": 29.99, "currency": "USD", "stock": 176, "rating": 4.5, "reviews_count": 861, "in_stock": true, "tags": ["yoga", "fitness", "mat"], "created_at": "2026-05-19" }
+  ]
+}
