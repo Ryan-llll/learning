@@ -1,14 +1,10 @@
 const express = require('express')
 const app = express()
+const router = require('./router')
 
-const {products} = require('./products')
 
-app.get('/',(req,res)=>{
-    res.json(products)
-})
+app.use(express.json())
 
-app.get('/*splat',(req,res)=>{
-    //nthg here
-})
+app.use('/api/people',router)
 
-app.listen(126)
+app.listen(506)
