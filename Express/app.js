@@ -7,4 +7,4 @@ app.use(express.json())
 
 app.use('/api/people',router)
 
-app.listen(506)
+app.listen(506) 
